@@ -70,6 +70,7 @@ view: citibike_trips {
     sql_longitude: ${start_station_longitude} ;;
   }
   #this is a simple change, do i still need a pull request
+  #adding more comments
 
   dimension: start_station_name {
     type: string
